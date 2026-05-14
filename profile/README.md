@@ -1,4 +1,4 @@
-# 👋 Welcome to CoreForia
+# 👋 Welcome to [CoreForAI](https://coreforai.xyz/)
 
 **CoreForia** is a **founder-led development studio** focused on building  
 **gaming-driven software, tools, and scalable digital systems**.
